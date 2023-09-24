@@ -5,4 +5,4 @@ In this project, we focused on whether certain weather features could predict Fi
   of Algeria: the Bejaia region and the Sidi Bel-Abbes region. The timeline of this dataset is from **June 2012 to September 2012**. In this
   project, we focused on whether certain weather features could predict forest fires in these regions using few Classification algorithms.
   
-* In this project I choose regression problem to predict fire weather index.
+* In this project I choose regression(Linear regression, Ridge regression, Lasso regression, Elastic Net Regression) problem to predict fire weather index.
